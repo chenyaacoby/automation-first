@@ -33,5 +33,5 @@ The tests are written for demo websites (no CAPTCHA), focusing on user flows tha
 
 2. Run all tests:
    ```bash
-   pytest
+   pytest tests/*.py
    ```
